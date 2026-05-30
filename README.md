@@ -1,1 +1,3 @@
 # Terima-Kasih-Github
+# File ini hanya sebagai apreasiasi positif kepada pihak Github. Bukan perjalan mudah GITHUB menjadi sebuah aplikasi hybrid digunakan jutaan programmer & developer di dunia, mungkin angka penggunanya tidak terlalu akurat sebab ada saja 1 orang developer memiliki lebih dari 2 akun github. Ini juga apreasiasi hormat orang pembuat dan penggagas sistem Git yakni Linux Trovald di tahun 2005, setelah itu 3 tahun kemudia Github Lahir diprakarsai oleh 4 orang visioner yakni Tom Preston-Werner
+​Chris Wanstrath, ​P. J. Hyett, ​Scott Chacon walau 10 tahun kemudia pihak Microsoft akuisisi kepemilikan Github sampai saat ini.  
